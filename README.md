@@ -1,6 +1,5 @@
 # Informative Podcasts
 
-* IRL
-* Zigzag
-* Hintergrund
-* Fireteam Chat
+* [IRL](https://pca.st/irl)
+* [Zigzag](https://pca.st/zigzag)
+* [Fireteam Chat](https://pca.st/R40E)
